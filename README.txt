@@ -4,4 +4,4 @@ Tähän tiedostoon on tehty muutamia committeja versiohistorian havainnollistami
 
 Muutan tätä tiedostoa nyt githubissa.
 
-Täällä tapahtuu jotain ristiriitaista.
+Täällä tapahtuu jotain ristiriitaista, mutta ei hätää. Ristiriidat voi korjata!
