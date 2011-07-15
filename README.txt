@@ -1,3 +1,3 @@
-T‰m‰ on esimerkkitiedosto gitin demottamiseen.
+ÔªøT√§m√§ on esimerkkitiedosto gitin demottamiseen.
 
-T‰h‰n tiedostoon on tehty muutamia committeja versiohistorian havainnollistamiseksi.
+T√§h√§n tiedostoon on tehty muutamia committeja versiohistorian havainnollistamiseksi.
