@@ -3,3 +3,5 @@
 Tähän tiedostoon on tehty muutamia committeja versiohistorian havainnollistamiseksi.
 
 Muutan tätä tiedostoa nyt githubissa.
+
+Täällä tapahtuu jotain ristiriitaista.
